@@ -1,0 +1,44 @@
+[
+  {
+    "cliente": {
+      "usuario": "PigPepa",
+      "contrasena": "ifix"
+    }
+  },
+  {
+    "cliente": {
+      "usuario": "raul",
+      "contrasena": "balleza"
+    }
+  },
+  {
+    "cliente": {
+      "usuario": "pedro",
+      "contrasena": "tortas"
+    }
+  },
+  {
+    "cliente": {
+      "usuario": "PigPepa2",
+      "contrasena": "ifix"
+    }
+  },
+  {
+    "cliente": {
+      "usuario": "raul2",
+      "contrasena": "balleza"
+    }
+  },
+  {
+    "cliente": {
+      "usuario": "pedro2",
+      "contrasena": "tortas"
+    }
+  },
+  {
+    "cliente": {
+      "usuario": "PigPEPOOON",
+      "contrasena": "ifix2"
+    }
+  }
+]
